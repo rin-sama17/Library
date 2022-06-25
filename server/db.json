@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "fullname": "mammad",
+      "photo": "",
+      "phone": "09031044263",
+      "email": "mammad@gmail.com",
+      "job": "*2بیکار",
+      "group": 2,
+      "id": 1
+    },
+    {
+      "fullname": "rin okumura",
+      "photo": "",
+      "phone": "09031093263",
+      "email": "okumura.rin.samaa@gmail.com",
+      "job": "بیکار",
+      "group": 1,
+      "id": 2
+    }
+  ],
+  "group": [
+    {
+      "name": "همکار",
+      "id": "1"
+    },
+    {
+      "name": "دوست",
+      "id": "2"
+    },
+    {
+      "name": "فامیل",
+      "id": "3"
+    },
+    {
+      "name": "سرویس",
+      "id": "4"
+    },
+    {
+      "name": "اشنا",
+      "id": "5"
+    }
+  ]
+}
